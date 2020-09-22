@@ -1,0 +1,303 @@
+ &SRS
+ SRSRUN=857991,SRSDAT=20200812,SRSTIM=182527,
+ SRSSTN='BASE',SRSPRJ='GDA_BASE',SRSEXP='Emulator',
+ SRSTLE='                                                            ',
+ SRSCN1='        ',SRSCN2='        ',SRSCN3='        ',
+<MetaDataAtStart>
+note='energy 7.251 psi 44.300'
+cmd='cvscan kthZebra 81.3587668871 81.4187668871 0.0005 kthZebraPil3 0.04'
+date='Wed Aug 12 18:25:22 2020'
+kgam=0
+kdelta=48.941
+delta_offset=0
+kap=-134.52639
+kphi=234.85
+kth=81.38877
+kmu=0
+x=10.0000
+y=0.0000
+z=0.0000
+Year=2020
+Month=8
+Day=12
+Hours=18
+Minutes=25
+Seconds=22
+delta=48.94117
+eta=24.4910
+chi=89.90416
+phi=177.95556
+gam=0.00000
+mu=0.00000
+h=0.00333
+k=0.00407
+l=6.00000
+en=7.2515
+kphi=234.85
+azih=1.0000
+azik=0.0000
+azil=0.0000
+beta=-10000000.00000
+delta_axis_offset=8.8
+rc=300.3235
+idgap=6.4014
+Uharmonic=7
+s5xgap=1
+s5xtrans=0.0001
+s5ygap=0.5002
+s5ytrans=5e-05
+s6xgap=5
+s6xtrans=3.5152
+s6ygap=5
+s6ytrans=8.5482
+stokes=0.00012
+tthp=0.92956
+thp=-0.0015
+zp=11.999
+ppchi=-44.997
+ppth1=2.6374
+pppiezo1=0
+ppz1=12
+ppth2=-13.38
+pppiezo2=12345
+ppz2=12
+sx=-0.1701
+sy=-0.2001
+sz=14.6
+sperp=0.2060
+spara=0.1629
+base_y=22.633
+Base_z=-0.981
+Base_z1=-0.981
+Base_z2=-0.981
+Base_z3=-0.981
+table_horiz=20.467
+table_vert=-7.562
+Atten=0
+Transmission=1
+diode_gain=0
+ic1_gain=3
+ic2_gain=4
+m1pitch=3.8199
+m1x=1.6594
+m1y=-2.5061
+m1roll=0.096121
+m1yaw=0.39993
+m1piezo=0.000
+m2pitch=3.8149
+m2x=14.489
+m2y=1.9365
+m2roll=0.4
+m2yaw=-0.038071
+m2bender=305
+m3x=-4.000
+m4x=4.000
+m3pitch=-0.000
+m4pitch=0.000
+s1xcentre=-0.006
+s1xgap=2.512
+s1ycentre=0.0005
+s1ygap=0.999
+s2xcentre=-0.00079375
+s2xgap=4.9989
+s2ycentre=0.499
+s2ygap=20
+s3xcentre=2.6972
+s3xgap=25.002
+s3ycentre=-0.682
+s3ygap=20.125
+s4xcentre=-5.875
+s4xgap=36.65
+s4ycentre=0
+s4ygap=28.005
+shtr3x=11.93
+shtr3y=4.32
+en=7.2515
+bragg=-15.549
+dcmpitch=-21.157
+dcmfinepitch=0
+perp=40.542
+dcmlat=-40.938
+dcmroll1=19.952
+dcmroll2=18.714
+T1dcmSi111=117.22
+T2dcmSi111=11.72
+Tset=0.00
+Ta=0.000000
+Tb=0.000000
+Tc=0.000000
+Td=0.000000
+m1y_offset=-15.988
+m2y_offset=-22.546
+base_z_offset=-14.459
+ztable_offset=-21.044
+m2_coating_offset=11
+idgap_offset=0.53015
+s7xgap=3
+s7xtrans=0
+s7ygap=3
+s7ytrans=-0.0001
+ppy=-7.1997
+ppx=9.2502
+ppchi=-44.997
+ppth1=2.6374
+ppz1=12
+ppth2=-13.38
+ppz2=12
+ppyaw=-0.1999
+pppitch=0.0199
+ppchitemp=2.480000000e+01
+ppth1temp=2.470000000e+01
+ppz1temp=2.460000000e+01
+ppth2temp=2.530000000e+01
+ppz2temp=2.500000000e+01
+p2x1=-5.0263
+p2y1=185.65
+p2ztop=-41.427
+p2zbot=125.84
+p2rot=6.6767
+dettrans=0
+en=7.2515
+psi=44.30000
+alpha=-40.63024
+beta=40.66498
+UB11=0.34120
+UB12=0.37556
+UB13=-0.00130
+UB21=-0.37556
+UB22=0.34120
+UB23=-0.00017
+UB31=0.00075
+UB32=0.00108
+UB33=0.50741
+a=12.38290
+b=12.38290
+c=12.38290
+alpha1=90.00000
+alpha2=90.00000
+alpha3=90.00000
+pilatus3_100k_path_template='857991-pilatus3_100k-files/%05d.tif'
+</MetaDataAtStart>
+ &END
+kthZebra	count_time	filepath
+81.359	0.04	857991-pilatus3_100k-files/00001.tif
+81.359	0.04	857991-pilatus3_100k-files/00002.tif
+81.359	0.04	857991-pilatus3_100k-files/00003.tif
+81.360	0.04	857991-pilatus3_100k-files/00004.tif
+81.360	0.04	857991-pilatus3_100k-files/00005.tif
+81.360	0.04	857991-pilatus3_100k-files/00006.tif
+81.361	0.04	857991-pilatus3_100k-files/00007.tif
+81.361	0.04	857991-pilatus3_100k-files/00008.tif
+81.362	0.04	857991-pilatus3_100k-files/00009.tif
+81.362	0.04	857991-pilatus3_100k-files/00010.tif
+81.363	0.04	857991-pilatus3_100k-files/00011.tif
+81.363	0.04	857991-pilatus3_100k-files/00012.tif
+81.364	0.04	857991-pilatus3_100k-files/00013.tif
+81.364	0.04	857991-pilatus3_100k-files/00014.tif
+81.365	0.04	857991-pilatus3_100k-files/00015.tif
+81.365	0.04	857991-pilatus3_100k-files/00016.tif
+81.366	0.04	857991-pilatus3_100k-files/00017.tif
+81.366	0.04	857991-pilatus3_100k-files/00018.tif
+81.367	0.04	857991-pilatus3_100k-files/00019.tif
+81.367	0.04	857991-pilatus3_100k-files/00020.tif
+81.368	0.04	857991-pilatus3_100k-files/00021.tif
+81.368	0.04	857991-pilatus3_100k-files/00022.tif
+81.369	0.04	857991-pilatus3_100k-files/00023.tif
+81.369	0.04	857991-pilatus3_100k-files/00024.tif
+81.370	0.04	857991-pilatus3_100k-files/00025.tif
+81.370	0.04	857991-pilatus3_100k-files/00026.tif
+81.371	0.04	857991-pilatus3_100k-files/00027.tif
+81.371	0.04	857991-pilatus3_100k-files/00028.tif
+81.372	0.04	857991-pilatus3_100k-files/00029.tif
+81.372	0.04	857991-pilatus3_100k-files/00030.tif
+81.373	0.04	857991-pilatus3_100k-files/00031.tif
+81.373	0.04	857991-pilatus3_100k-files/00032.tif
+81.374	0.04	857991-pilatus3_100k-files/00033.tif
+81.374	0.04	857991-pilatus3_100k-files/00034.tif
+81.375	0.04	857991-pilatus3_100k-files/00035.tif
+81.375	0.04	857991-pilatus3_100k-files/00036.tif
+81.376	0.04	857991-pilatus3_100k-files/00037.tif
+81.376	0.04	857991-pilatus3_100k-files/00038.tif
+81.377	0.04	857991-pilatus3_100k-files/00039.tif
+81.377	0.04	857991-pilatus3_100k-files/00040.tif
+81.378	0.04	857991-pilatus3_100k-files/00041.tif
+81.378	0.04	857991-pilatus3_100k-files/00042.tif
+81.379	0.04	857991-pilatus3_100k-files/00043.tif
+81.379	0.04	857991-pilatus3_100k-files/00044.tif
+81.380	0.04	857991-pilatus3_100k-files/00045.tif
+81.380	0.04	857991-pilatus3_100k-files/00046.tif
+81.381	0.04	857991-pilatus3_100k-files/00047.tif
+81.381	0.04	857991-pilatus3_100k-files/00048.tif
+81.382	0.04	857991-pilatus3_100k-files/00049.tif
+81.382	0.04	857991-pilatus3_100k-files/00050.tif
+81.383	0.04	857991-pilatus3_100k-files/00051.tif
+81.383	0.04	857991-pilatus3_100k-files/00052.tif
+81.384	0.04	857991-pilatus3_100k-files/00053.tif
+81.384	0.04	857991-pilatus3_100k-files/00054.tif
+81.385	0.04	857991-pilatus3_100k-files/00055.tif
+81.385	0.04	857991-pilatus3_100k-files/00056.tif
+81.386	0.04	857991-pilatus3_100k-files/00057.tif
+81.386	0.04	857991-pilatus3_100k-files/00058.tif
+81.387	0.04	857991-pilatus3_100k-files/00059.tif
+81.387	0.04	857991-pilatus3_100k-files/00060.tif
+81.388	0.04	857991-pilatus3_100k-files/00061.tif
+81.388	0.04	857991-pilatus3_100k-files/00062.tif
+81.389	0.04	857991-pilatus3_100k-files/00063.tif
+81.389	0.04	857991-pilatus3_100k-files/00064.tif
+81.390	0.04	857991-pilatus3_100k-files/00065.tif
+81.390	0.04	857991-pilatus3_100k-files/00066.tif
+81.391	0.04	857991-pilatus3_100k-files/00067.tif
+81.391	0.04	857991-pilatus3_100k-files/00068.tif
+81.392	0.04	857991-pilatus3_100k-files/00069.tif
+81.392	0.04	857991-pilatus3_100k-files/00070.tif
+81.393	0.04	857991-pilatus3_100k-files/00071.tif
+81.393	0.04	857991-pilatus3_100k-files/00072.tif
+81.394	0.04	857991-pilatus3_100k-files/00073.tif
+81.394	0.04	857991-pilatus3_100k-files/00074.tif
+81.395	0.04	857991-pilatus3_100k-files/00075.tif
+81.395	0.04	857991-pilatus3_100k-files/00076.tif
+81.396	0.04	857991-pilatus3_100k-files/00077.tif
+81.396	0.04	857991-pilatus3_100k-files/00078.tif
+81.397	0.04	857991-pilatus3_100k-files/00079.tif
+81.397	0.04	857991-pilatus3_100k-files/00080.tif
+81.398	0.04	857991-pilatus3_100k-files/00081.tif
+81.398	0.04	857991-pilatus3_100k-files/00082.tif
+81.399	0.04	857991-pilatus3_100k-files/00083.tif
+81.399	0.04	857991-pilatus3_100k-files/00084.tif
+81.400	0.04	857991-pilatus3_100k-files/00085.tif
+81.400	0.04	857991-pilatus3_100k-files/00086.tif
+81.401	0.04	857991-pilatus3_100k-files/00087.tif
+81.401	0.04	857991-pilatus3_100k-files/00088.tif
+81.402	0.04	857991-pilatus3_100k-files/00089.tif
+81.402	0.04	857991-pilatus3_100k-files/00090.tif
+81.403	0.04	857991-pilatus3_100k-files/00091.tif
+81.403	0.04	857991-pilatus3_100k-files/00092.tif
+81.404	0.04	857991-pilatus3_100k-files/00093.tif
+81.404	0.04	857991-pilatus3_100k-files/00094.tif
+81.405	0.04	857991-pilatus3_100k-files/00095.tif
+81.405	0.04	857991-pilatus3_100k-files/00096.tif
+81.406	0.04	857991-pilatus3_100k-files/00097.tif
+81.406	0.04	857991-pilatus3_100k-files/00098.tif
+81.407	0.04	857991-pilatus3_100k-files/00099.tif
+81.407	0.04	857991-pilatus3_100k-files/00100.tif
+81.408	0.04	857991-pilatus3_100k-files/00101.tif
+81.408	0.04	857991-pilatus3_100k-files/00102.tif
+81.409	0.04	857991-pilatus3_100k-files/00103.tif
+81.409	0.04	857991-pilatus3_100k-files/00104.tif
+81.410	0.04	857991-pilatus3_100k-files/00105.tif
+81.410	0.04	857991-pilatus3_100k-files/00106.tif
+81.411	0.04	857991-pilatus3_100k-files/00107.tif
+81.411	0.04	857991-pilatus3_100k-files/00108.tif
+81.412	0.04	857991-pilatus3_100k-files/00109.tif
+81.412	0.04	857991-pilatus3_100k-files/00110.tif
+81.413	0.04	857991-pilatus3_100k-files/00111.tif
+81.413	0.04	857991-pilatus3_100k-files/00112.tif
+81.414	0.04	857991-pilatus3_100k-files/00113.tif
+81.414	0.04	857991-pilatus3_100k-files/00114.tif
+81.415	0.04	857991-pilatus3_100k-files/00115.tif
+81.415	0.04	857991-pilatus3_100k-files/00116.tif
+81.416	0.04	857991-pilatus3_100k-files/00117.tif
+81.416	0.04	857991-pilatus3_100k-files/00118.tif
+81.417	0.04	857991-pilatus3_100k-files/00119.tif
+81.417	0.04	857991-pilatus3_100k-files/00120.tif
+81.418	0.04	857991-pilatus3_100k-files/00121.tif
